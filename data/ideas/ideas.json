@@ -1,0 +1,226 @@
+{
+  "meta": {
+    "ogTitle": "Ideas - Fuel",
+    "ogDescription": "A playground of design tools, kits and ideas to help you ideate building with Sway.",
+    "ogImage": ""
+  },
+  "heroData": {
+    "title": "START DREAMING UP YOUR \n JUNGLE",
+    "subtitle": "A playground of design tools, kits and ideas to help you ideate \n building with Sway.",
+    "videoSrc": "/assets/video/3d-render.mp4"
+  },
+  "productData": {
+    "title": "PRODUCT IDEA JAR",
+    "subtitle": "A collection of ideas built by the Sway community and for the \n Sway community to build applications.",
+    "buttonLabel": "Submit application idea",
+    "buttonUrl": "https://www.google.com/",
+    "productsList": [
+      {
+        "title": "All Categories",
+        "description": "Lorem Ipsum dolor",
+        "svgIcon": "installation-guide",
+        "href": "https://www.google.com/"
+      },
+      {
+        "title": "DeFi",
+        "description": "Lorem Ipsum dolor",
+        "svgIcon": "dollar",
+        "href": "https://www.google.com/"
+      },
+      {
+        "title": "NFTs",
+        "description": "Lorem Ipsum dolor",
+        "svgIcon": "nfts",
+        "href": "https://www.google.com/"
+      },
+      {
+        "title": "Bridges",
+        "description": "Lorem Ipsum dolor",
+        "svgIcon": "bridges",
+        "href": "https://www.google.com/"
+      },
+      {
+        "title": "On-Ramp",
+        "description": "Lorem Ipsum dolor",
+        "svgIcon": "on-ramp",
+        "href": "https://www.google.com/"
+      },
+      {
+        "title": "Wallets",
+        "description": "Lorem Ipsum dolor",
+        "svgIcon": "wallets",
+        "href": "https://www.google.com/"
+      },
+      {
+        "title": "Tools",
+        "description": "Lorem Ipsum dolor",
+        "svgIcon": "tools",
+        "href": "https://www.google.com/"
+      },
+      {
+        "title": "Governance",
+        "description": "Lorem Ipsum dolor",
+        "svgIcon": "scale",
+        "href": "https://www.google.com/"
+      }
+    ],
+    "ideasList": [
+      {
+        "title": "Perpetuals",
+        "description": "Lorem Ipsum dolor",
+        "svgIcon": "dollar",
+        "href": "https://www.google.com/"
+      },
+      {
+        "title": "Temperature Check Polling",
+        "description": "Lorem Ipsum dolor",
+        "svgIcon": "scale",
+        "href": "https://www.google.com/"
+      },
+      {
+        "title": "Digital Trading Cards",
+        "description": "Lorem Ipsum dolor",
+        "svgIcon": "nfts",
+        "href": "https://www.google.com/"
+      },
+      {
+        "title": "Indices",
+        "description": "Lorem Ipsum dolor",
+        "svgIcon": "dollar",
+        "href": "https://www.google.com/"
+      },
+      {
+        "title": "Liquid Staking",
+        "description": "Lorem Ipsum dolor",
+        "svgIcon": "scale",
+        "href": "https://www.google.com/"
+      }
+    ]
+  },
+  "ecoData": {
+    "title": "ECOSYSTEM PROJECTS",
+    "subtitle": "Projects funded by the Fuel Labs Ecosystem Growth Program. \n  Build a Sway application today.",
+    "buttonLabel": "Submit your project",
+    "buttonUrl": "https://www.google.com/",
+    "cardsData": [
+      {
+        "markdownText": "Yama \n Finance",
+        "backgroundImage": "playestates",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "Play \n Estates",
+        "backgroundImage": "playestates",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "Fuelet \n Wallet",
+        "backgroundImage": "playestates",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "Sway DCA",
+        "backgroundImage": "playestates",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "Poolshark \n Protocol",
+        "backgroundImage": "playestates",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "Thunder",
+        "backgroundImage": "playestates",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "Yama \n Finance",
+        "backgroundImage": "playestates",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "Play \n Estates",
+        "backgroundImage": "playestates",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "Fuelet \n Wallet",
+        "backgroundImage": "playestates",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "Sway DCA",
+        "backgroundImage": "playestates",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "Poolshark \n Protocol",
+        "backgroundImage": "playestates",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "Thunder",
+        "backgroundImage": "playestates",
+        "href": "https://www.google.com/"
+      }
+    ]
+  },
+  "hackathonData": {
+    "title": "HACKATHON PROJECTS",
+    "subtitle": "A library of hackathon projects built with Sway online, at events and for the community.",
+    "buttonLabel": "Submit your hackathon project",
+    "buttonUrl": "https://www.google.com/",
+    "cardsData": [
+      {
+        "markdownText": "Hackathon \n Project 1",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "Hackathon \n Project 2",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "Hackathon \n Project 3",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "Hackathon \n Project 4",
+        "href": "https://www.google.com/"
+      },
+
+      {
+        "markdownText": "Hackathon \n Project 5",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "Hackathon \n Project 6",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "Hackathon \n Project 7",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "Hackathon \n Project 8",
+        "href": "https://www.google.com/"
+      },
+
+      {
+        "markdownText": "Hackathon \n Project 9",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "Hackathon \n Project 10",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "Hackathon \n Project 11",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "Hackathon \n Project 12",
+        "href": "https://www.google.com/"
+      }
+    ]
+  }
+}

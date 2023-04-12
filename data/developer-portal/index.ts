@@ -1,0 +1,1 @@
+export * from "@/data/developer-portal/developerPortal"

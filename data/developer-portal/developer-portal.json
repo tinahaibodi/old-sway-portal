@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "ogTitle": "Sway Developer Portal - Fuel",
+    "ogDescription": "Your home to everything building in Sway",
+    "ogImage": ""
+  },
+  "heroData": {
+    "title": "WELCOME TO THE SWAY DEVELOPER PORTAL",
+    "subtitle": "Your home to everything building in Sway",
+    "videoSrc": "/assets/video/3d-render.mp4"
+  },
+  "installData": {
+    "title": "INSTALL",
+    "subtitle": "Start setting up your Sway developer environment",
+    "stepsData": [
+      {
+        "markdownText": "Install \n dependencies",
+        "href": "https://www.google.com/"
+      },
+
+      {
+        "markdownText": "Setup application \n (think create-react-app)",
+        "href": "https://www.google.com/"
+      },
+
+      {
+        "markdownText": "Setup testing envrionment \n (faucet funds, wallet-cli, testnet)",
+        "href": "https://www.google.com/"
+      },
+
+      {
+        "markdownText": "Build frontend for \n  application interface",
+        "href": "https://www.google.com/"
+      }
+    ],
+    "cardsData": [
+      {
+        "markdownText": "Installation \n Guide",
+        "leftSvg": "terminal",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "App \n Quickstart",
+        "leftSvg": "machine",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "Testnet \n Setup \n Guide",
+        "leftSvg": "files",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "Typescript \n SDK",
+        "leftSvg": "database",
+        "href": "https://www.google.com/"
+      }
+    ]
+  },
+  "developData": {
+    "title": "DEVELOP",
+    "subtitle": "Build out your protocol today",
+    "stepsData": [
+      {
+        "markdownText": "Browse existing \n Ecosystem Projects \n  and product ideas",
+        "href": "https://www.google.com/"
+      },
+
+      {
+        "markdownText": "Choose program from \n  ‘Sway Program Library’ \n to fork",
+        "href": "https://www.google.com/"
+      },
+
+      {
+        "markdownText": "Start designing interface with \n our Sway UI Kit, and Design \n System Guidelines",
+        "href": "https://www.google.com/"
+      },
+
+      {
+        "markdownText": "Build frontend for \n application interface with \n Sway UI library",
+        "href": "https://www.google.com/"
+      }
+    ],
+    "cardsData": [
+      {
+        "markdownText": "NFT \n  Product \n Ideas",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "Sway NFT \n Standard",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "Design \n interface",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "Develop \n interface",
+        "href": "https://www.google.com/"
+      }
+    ]
+  },
+  "productData": {
+    "title": "PRODUCT GUIDES",
+    "subtitle": "Integrate our products into your development with our product guides.",
+    "cardsData": [
+      {
+        "markdownText": "Wallet\n  Book",
+        "leftSvg": "wallet",
+        "href": "https://www.google.com/"
+      },
+      {
+        "markdownText": "Indexer \n  Book",
+        "leftSvg": "crosshair",
+        "href": "https://www.google.com/"
+      }
+    ]
+  }
+}

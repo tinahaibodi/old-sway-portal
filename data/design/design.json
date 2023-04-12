@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "ogTitle": "Design - Fuel",
+    "ogDescription": "Designing better experiences on Sway",
+    "ogImage": ""
+  },
+  "heroData": {
+    "title": "WELCOME TO THE SWAY DESIGN PORTAL",
+    "subtitle": "Designing better experiences on Sway"
+  },
+  "designSystemData": {
+    "title": "START DESIGNING",
+    "subtitle": "Use our open source design system to fuel your ideation",
+    "cardsData": [
+      {
+        "markdownText": "Sway \n Figma \n Component \n Kit",
+        "href": "https://www.google.com/"
+      },
+
+      {
+        "markdownText": "Sway UI \n Library",
+        "href": "https://www.google.com/"
+      },
+
+      {
+        "markdownText": "Sway UI \n Templates",
+        "href": "https://www.google.com/"
+      },
+
+      {
+        "markdownText": "Sway \n Design \n Guidelines",
+        "href": "https://www.google.com/"
+      }
+    ]
+  }
+}
